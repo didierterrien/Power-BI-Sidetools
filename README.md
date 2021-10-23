@@ -5,5 +5,4 @@ Feel free to create issues here to provide feedback on bugs or to propose new fu
 
 More information including setup instructions on The BI Power website :  https://thebipower.fr/index.php/power-bi-sidetools/
 
-Sidetools is available as a portable package in Business Ops from https://powerbi.tips/. That's the best user experience for installing a portable external tool :   
-     https://powerbi.tips/product/business-ops/ 
+Sidetools is available as a portable package in Business Ops from https://powerbi.tips/. That's the best user experience for installing a portable external tool :     https://powerbi.tips/product/business-ops/ 
