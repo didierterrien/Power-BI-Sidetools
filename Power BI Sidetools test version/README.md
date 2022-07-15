@@ -1,4 +1,4 @@
-Test versions have been moved into Realeases
+Test versions have been moved into https://github.com/didierterrien/Power-BI-Sidetools/releases Realeases
 
 Test versions are used to check if a major change can be deployed. Use them carefully and please raise issues if necessary.
 
