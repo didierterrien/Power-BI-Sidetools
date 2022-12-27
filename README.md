@@ -1,4 +1,7 @@
 # Power-BI-Sidetools
+
+****************  Power BI Sidetools download has been moved to Releases section  ****************
+
 Power BI Sidetools is a free Power BI external tool intended to increase productivity during reports development in Power BI desktop. 
 
 Feel free to create issues here to provide feedback on bugs or to propose new functionalities in discussions.
